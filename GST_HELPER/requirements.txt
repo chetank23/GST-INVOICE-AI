@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-python-multipart
-pytesseract
-pillow
-pandas
-scikit-learn
-pytest
-httpx
